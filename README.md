@@ -1,7 +1,7 @@
-# ASICN 26 - Week 1 Cyber Security Internship
+# AISCN 26 - Week 1 Cyber Security Internship
 
 ## Overview
-This repository contains my Week 1 tasks completed during the ASICN 26 Cyber Security Internship.
+This repository contains my Week 1 tasks completed during the AISCN 26 Cyber Security Internship.
 
 ## Tasks Completed
 - Basic Operating System Information
